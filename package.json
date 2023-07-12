@@ -1,0 +1,13 @@
+{
+  "name": "js-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emilio Scodeler <emilio.scodeler@solides.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
