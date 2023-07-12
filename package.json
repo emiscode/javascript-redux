@@ -4,10 +4,12 @@
   "main": "index.js",
   "author": "Emilio Scodeler <emilio.scodeler@solides.com.br>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "node index.js"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
     "redux": "^4.2.1"
   }
 }
